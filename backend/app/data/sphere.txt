@@ -1,18 +1,18 @@
-mr[sc-6] (6)
+mr[sc-6] # 6
 inc-6 (12)
-rep-6[sc-1,inc-1] (18)
-sc-1,inc-1,rep-5[sc-2,inc-1],sc-1 (24)
-rep-6[sc-3,inc-1] (30)
-sc-2,inc-1,rep-5[sc-4,inc-1],sc-2 (36)
-sc-36 (36)
-sc-36 (36)
-sc-36 (36)
-sc-36 (36)
-sc-36 (36)
-sc-36 (36)
-sc-36 (36)
-sc-2,dec-1,rep-5[sc-4,dec-1],sc-2 (30)
-rep-6[sc-3,dec-1] (24)
-sc-1,dec-1,rep-5[sc-2,dec-1],sc-1 (18)
-rep-6[sc-1,dec-1] (12)
-rep-6[dec-1] (6)
+rep-6[sc-1,inc-1] # 18
+sc-1,inc-1,rep-5[sc-2,inc-1],sc-1 # 24
+rep-6[sc-3,inc-1] # 30
+sc-2,inc-1,rep-5[sc-4,inc-1],sc-2 # 36
+sc-36 # 36
+sc-36 # 36
+sc-36 # 36
+sc-36 # 36
+sc-36 # 36
+sc-36 # 36
+sc-36 # 36
+sc-2,dec-1,rep-5[sc-4,dec-1],sc-2 # 30
+rep-6[sc-3,dec-1] # 24
+sc-1,dec-1,rep-5[sc-2,dec-1],sc-1 # 18
+rep-6[sc-1,dec-1] # 12
+rep-6[dec-1] # 6
